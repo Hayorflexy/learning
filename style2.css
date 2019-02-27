@@ -1,0 +1,36 @@
+#wrapper{
+	border: 1px solid black;
+	width:700px;
+	height:700px;
+}
+#first{
+	border:1px solid black;
+	height: 100px;
+}
+nav{
+	border: 1px solid black;
+	margin: 0px auto;
+	width: 350px;
+}
+nav li{
+	display: inline;
+	padding:20px;
+}
+section {
+border: 2px solid black;
+width:500px;
+margin:0px auto;
+}
+aside{
+	border:1px solid black;
+	width:98px;
+	height: 390px;
+margin-top:-337px;}
+#second{
+	border:1px solid black;
+	height:40px;
+}
+article{
+	border: 1px solid black;
+	width: 390px;
+}
